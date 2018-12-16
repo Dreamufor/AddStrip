@@ -1,0 +1,27 @@
+C:\Temp\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.Cache
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\obj\Debug\Assignment_2.MainForm.resources
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\school course\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\obj\Debug\Assignment_2.MainForm.resources
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Administrator\Dropbox\Mu\task\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment_2.AddStripForm.resources

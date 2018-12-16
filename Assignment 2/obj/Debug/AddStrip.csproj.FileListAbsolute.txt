@@ -1,0 +1,93 @@
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\temp\Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.CoreCompileInputs.cache
+C:\Temp\522Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\522Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\522Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\522Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\522Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\522Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\522Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\522Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\522Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\525Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\525Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\525Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\525Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\525Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\525Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\525Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\525Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\525Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\527Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\527Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\527Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.CoreCompileInputs.cache
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\527Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\528Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\528Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\528Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\528Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\528Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\528Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\528Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\528Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\528Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\529Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\529Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\529Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\529Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\529Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\529Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\529Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\529Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\529Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\531Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\531Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\531Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\531Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\531Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\531Assignment 2\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\531Assignment 2\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\531Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\531Assignment 2\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\531\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\531\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\531\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\531\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\531\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\531\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\531\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\531\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\531\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Temp\604\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Temp\604\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Temp\604\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Temp\604\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Temp\604\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Temp\604\Assignment 2\obj\Debug\AddStrip.csprojResolveAssemblyReference.cache
+C:\Temp\604\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Temp\604\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Temp\604\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\AddStrip.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\AddStrip.AddStripForm.resources
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\AddStrip.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ISCG6421_Assignment2-ZhangMengxue\AddStrip\Assignment 2\obj\Debug\AddStrip.csproj.CoreCompileInputs.cache
